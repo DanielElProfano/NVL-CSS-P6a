@@ -1,0 +1,39 @@
+	
+		body{
+
+			font-family: sans-serif;
+			}
+		h1 {
+			
+			text-align: center;
+			border-width: 1px;
+			background-color: #ddd;
+			
+		}
+		h5{
+			text-align: center;
+		}
+		table
+		{
+			margin: auto;
+			text-align: center;
+		}
+		 table,td,th
+		{
+			border-collapse: collapse;
+			border: 1px solid #aaa;
+    		padding: 1em 1em;
+		}
+		th
+		{	
+			
+			background-color: #c8c9ca;
+		}
+		td
+		{
+			text-align: center;
+		}
+		img{
+			width:100px;
+		}
+	
